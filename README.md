@@ -17,5 +17,5 @@ Communication through any of channels (GitHub, mailing lists, Facebook, Twitter,
 
 When considering a course of action, ask yourself whether the action you’re considering could create an incentive for you, or appear to others to create an incentive for you, to benefit yourself, your friends or family, or an associated business at the expense of Mroom Software. If the answer is “yes,” the action you’re considering is likely to create a conflict of interest situation, and you should avoid it.
 
-If any member violates this code of conduct, the leader or board members of Mroom Software may take action, removing issues, comments, and PRs or firing/blocking accounts as deemed appropriate.
+If any member violates this code of conduct, the leader or Board members of Mroom Software may take action, removing issues, comments, and PRs or firing/blocking accounts as deemed appropriate.
 
